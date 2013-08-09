@@ -1,3 +1,7 @@
+(This is a fork of node-soap, my goal is to maintain this plugin based on cumminity input and eventualy create a robust soap client for node.)
+
+Origonal: https://github.com/milewise/node-soap
+
 This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
 
 Features:
